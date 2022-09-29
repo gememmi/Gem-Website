@@ -5,16 +5,23 @@ body{
     font-family: Yellowtail', cursive;
 }
 header{
-  background: #EFD1F0;
+  background-image: linear-gradient(#EFD1F0, #7A2941);
   position: fixed;
   width: 100%;
-  padding: 10px 15px;
+  top:0;
+  left:0;
+  box-shadow: 0 1px 5px  0px gray ;
 
 }
 h1{
+    padding-top:100px;
+    padding-bottom: 50px;
+    font-family: 'Rubik Bubbles', cursive;
+    font-size: 32px;
 
 }
 h2{
+    font-family:'Rubik Bubbles', cursive;
 
 }
 p{
